@@ -1,8 +1,13 @@
 https://docs.wpilib.org/tr/stable/docs/zero-to-robot/step-2/wpilib-setup.html
+
 https://codingbat.com/java
+
 https://www.youtube.com/watch?v=GoXwIVyNvX0
+
 https://www.youtube.com/watch?v=eIrMbAQSU34
+
 https://www.codecademy.com/learn/learn-java
+
 https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Java_Second_Edition.pdf
 
 PID şimdilik kısa özet: 
