@@ -13,8 +13,11 @@ https://www.rcsdk12.org/cms/lib/NY01001156/Centricity/Domain/4951/Head_First_Jav
 PID şimdilik kısa özet: 
 
 PID = proportional, integral, derivative control.
+
 P: gitmen gereken noktada değilsen, o noktaya git
+
 I: gitmen gerek noktaya uzun bir süre gelemediysen, daha hızlı git
+
 D: gitmen gereken yere yaklaştıysan, yavaşla
 
 Motorlar anında başlayıp duramaz, Bu yüzden overshoot, undershoot vb. gerçekleşmemesi için - yani motorun geç veya erken tepki vermesi gibi düşünebilirsiniz - PID değerlerini ayarlıyoruz. 
