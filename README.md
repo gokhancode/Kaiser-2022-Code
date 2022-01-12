@@ -23,3 +23,7 @@ D: gitmen gereken yere yaklaştıysan, yavaşla
 
 
 Motorlar anında başlayıp duramaz, Bu yüzden overshoot, undershoot vb. gerçekleşmemesi için - yani motorun geç veya erken tepki vermesi gibi düşünebilirsiniz - PID değerlerini ayarlıyoruz. 
+
+https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/introduction-to-pid.html?highlight=P%C4%B0D
+
+Eski kodlar: github.com/nemantor
