@@ -26,4 +26,6 @@ Motorlar anında başlayıp duramaz, Bu yüzden overshoot, undershoot vb. gerçe
 
 https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/introduction-to-pid.html?highlight=P%C4%B0D
 
+https://frc-pdr.readthedocs.io/en/latest/control/pid_control.html
+
 Eski kodlar: https://github.com/Nemantor
