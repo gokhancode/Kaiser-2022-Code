@@ -28,4 +28,6 @@ https://docs.wpilib.org/en/stable/docs/software/advanced-controls/introduction/i
 
 https://frc-pdr.readthedocs.io/en/latest/control/pid_control.html
 
+https://learn.frcturkey.org/
+
 Eski kodlar: https://github.com/Nemantor
